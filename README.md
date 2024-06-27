@@ -1,4 +1,4 @@
-#Diversity & Inclusion Dashboard
+DIVERSITY & INCLUSION DASHBOARD
 
 Kpi:
   Number of Men   = COUNTROWS(FILTER('03 Diversity-Inclusion-Dataset xlsx - Pharma Group AG', '03 Diversity-Inclusion-Dataset xlsx - 
